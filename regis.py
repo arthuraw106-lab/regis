@@ -6,7 +6,7 @@ import time
 from openai import OpenAI
 
 TELEGRAM_BOT_TOKEN = "8808603871:AAGf0SdMEjwlhgZToPMraOCCbpUwTjqYipU"
-API_KEY = "fe_oa_fd3e5d1a89e87bc4c40fcc94739990c0d4cd6c6c52db4d7b"
+API_KEY = "fe_oa_2162df958833ddb1bd8f520fe074a4553a05b0814c60e978"
 
 BASE_URL = "https://api.freemodel.dev/v1"
 MODEL = "gpt-5.5"
